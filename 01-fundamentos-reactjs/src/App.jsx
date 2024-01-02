@@ -15,7 +15,7 @@ function App() {
         <Sidebar />
 
         <main>
-          <Post author="Lucas Prazeres" content="Hello world" />
+          <Post />
         </main>
       </div>
     </div>
